@@ -2,7 +2,7 @@
 
 Authors: Heng YE, Nan LIN, Zhe CHEN
 
-Please refer to the Jupyter Notebook for the detailed implementation and experimental results.
+Please refer to the Jupyter Notebook for the detailed implementation and experimental results. The code is available on GitHub: https://github.com/Languisher/Sentiment-Analysis-on-Kaggle-sentiment-analysis-dataset.
 
 ## Prerequisite: Environment Setup
 
